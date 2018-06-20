@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">reCAPTCHA</string>
+    <string name="uri_default"></string>
+    <string name="send_button">Send</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="result_captcha">Resultado</string>
+    <string name="result_token">Seu token é</string>
+    <string name="result_errors">Erros recebidos</string>
+    <string name="success">SUCESSO</string>
+    <string name="success_response">true</string>
+    <string name="fail">FAIL</string>
+    <string name="fail_response">false</string>
+    <string name="secret_key">6LeKwF8UAAAAAP4yafZOissJ7WNCXkDG554Sm___</string>
+    <string name="secret_key_error">xxx</string>
+
+</resources>
